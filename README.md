@@ -46,3 +46,6 @@ Express server so keep the server running.
 - Secrets live in `server/.env`, which is excluded from Git by `.gitignore`.
 - All input is validated on the server with Joi; uploads are limited to JPG/PNG/GIF/WEBP up to 5 MB
   and saved under random file names.
+
+## Student Name
+Ruaa Yousif Mohammed Elamin
